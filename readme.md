@@ -161,7 +161,7 @@ The project is structured as follows:
 ## References
 
 - [mailparser](https://github.com/andris9/mailparser)
-- [Testmail](https://testmail.io/)
+- [Testmail](https://testmail.app/)
 
 
 
